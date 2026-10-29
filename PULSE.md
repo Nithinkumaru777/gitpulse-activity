@@ -1,4 +1,4 @@
 # GitPulse Telemetry
-Last updated: 20261029-125327 UTC
-Task: refactor(sync): streamline event dispatching loop
+Last updated: 20261029-130339 UTC
+Task: docs(telemetry): update integration guide and metrics schema
 Status: Operational
