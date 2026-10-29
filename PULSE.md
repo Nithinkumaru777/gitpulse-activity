@@ -1,4 +1,4 @@
 # GitPulse Telemetry
-Last updated: 20261029-181958 UTC
-Task: perf(cache): optimize memory usage in telemetry buffer
+Last updated: 20261029-183010 UTC
+Task: docs(telemetry): update integration guide and metrics schema
 Status: Operational
