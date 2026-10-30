@@ -1,4 +1,4 @@
 # GitPulse Telemetry
-Last updated: 20261030-153213 UTC
-Task: chore(cleanup): archive obsolete temporary build traces
+Last updated: 20261030-154225 UTC
+Task: docs(telemetry): update integration guide and metrics schema
 Status: Operational
