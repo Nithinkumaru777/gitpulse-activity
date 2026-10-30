@@ -1,4 +1,4 @@
 # GitPulse Telemetry
-Last updated: 20261030-123837 UTC
-Task: style(format): standardize logging syntax and indentation
+Last updated: 20261030-124849 UTC
+Task: docs(telemetry): update integration guide and metrics schema
 Status: Operational
