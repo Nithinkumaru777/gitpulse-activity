@@ -1,4 +1,4 @@
 # GitPulse Telemetry
-Last updated: 20261101-052238 UTC
-Task: ci(workflow): validate automated test pipeline run
+Last updated: 20261101-053249 UTC
+Task: docs(telemetry): update integration guide and metrics schema
 Status: Operational
